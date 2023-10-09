@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3478d05.css",
-    "main.js": "/static/js/main.cd439cbf.js",
-    "static/media/meals.jpg": "/static/media/meals.2971f633fc1382581cbf.jpg",
-    "index.html": "/index.html",
-    "main.c3478d05.css.map": "/static/css/main.c3478d05.css.map",
-    "main.cd439cbf.js.map": "/static/js/main.cd439cbf.js.map"
+    "main.css": "/DHANRAJCHOUDHARY244/React-Meal-App.git/static/css/main.c3478d05.css",
+    "main.js": "/DHANRAJCHOUDHARY244/React-Meal-App.git/static/js/main.b02b0da8.js",
+    "static/media/meals.jpg": "/DHANRAJCHOUDHARY244/React-Meal-App.git/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/DHANRAJCHOUDHARY244/React-Meal-App.git/index.html",
+    "main.c3478d05.css.map": "/DHANRAJCHOUDHARY244/React-Meal-App.git/static/css/main.c3478d05.css.map",
+    "main.b02b0da8.js.map": "/DHANRAJCHOUDHARY244/React-Meal-App.git/static/js/main.b02b0da8.js.map"
   },
   "entrypoints": [
     "static/css/main.c3478d05.css",
-    "static/js/main.cd439cbf.js"
+    "static/js/main.b02b0da8.js"
   ]
 }
