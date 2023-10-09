@@ -6,5 +6,6 @@
              
 ## Live Link of project
 https://dhanrajchoudhary244.github.io/React-Meal-App/ 
-    
+
+![Screen shot](./img.png)
 https://raw.githubusercontent.com/DHANRAJCHOUDHARY244/React-Meal-App/main/img.png
